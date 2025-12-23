@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無敵☆本気だサバイバー！",
+  "base_artist": "雪花ラミィ",
+  "createdAt": "2025-12-23T04:55:19.833279Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無敵☆本気だサバイバー!",
+      "artist": "雪花ラミィ",
+      "has_synced": false,
+      "path": "select/pl_01_無敵☆本気だサバイバー!_雪花ラミィ.txt"
+    }
+  ]
+}
